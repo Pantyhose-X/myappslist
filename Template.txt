@@ -1,0 +1,10 @@
+Text
+
+${displayname}
+  ${version}
+	  ${packagename}
+
+Markdown 
+
+* [${displayname}](${source}) ${comment}    ${version}<br>
+${packagename}<br>
